@@ -1,43 +1,32 @@
-<p align="center">
-  <img src="assets/banner.svg" alt="Vintage Creator Banner" width="100%" />
-</p>
-
 <h1 align="center">Hi 👋, I'm Israel aka Vintage Creator</h1>
 
 <p align="center">
-  <b>Author • Software Engineer • Open Source Believer • Fedora Contributor</b><br>
+  <b>Author • Software Engineer • Open Source Believer • JSON Schema & Fedora Contributor</b><br>
   Building in the open with ❤️ from Nigeria 🇳🇬
 </p>
 
 <p align="center">
+  <a href="mailto:chuksy3@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-chuksy3@gmail.com-blue?style=for-the-badge&logo=gmail">
+  </a>
   <a href="https://www.linkedin.com/in/israel-abazie/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/Connect-LinkedIn-blue?style=for-the-badge&logo=linkedin">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-israel--abazie-blue?style=for-the-badge&logo=linkedin">
   </a>
   <a href="https://www.npmjs.com/~vintage-creator">
     <img alt="NPM" src="https://img.shields.io/badge/NPM-vintage--creator-red?style=for-the-badge&logo=npm">
   </a>
-  <a href="mailto:your.email@example.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-Me-green?style=for-the-badge&logo=gmail">
-  </a>
 </p>
 
 ---
-
-
-
-<!-- Banner -->
-<h1 align="center">✨ My Open Source Legacy ✨</h1>
-<p align="center">Championing Transparency, Collaboration, and Community — One Contribution at a Time</p>
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/130170942?v=4" width="160" style="border-radius: 50%;" alt="Vintage Creator Avatar"/>
+  <img src="images/avatar.jpeg" width="160" style="border-radius: 50%;" alt="Vintage Creator Avatar"/>
 </p>
 
----
 
-## 📜 About Me
+## About Me
 
-I’m **Israel Chukwudi Abazie**, known in the open source space as [**`vintage-creator`**](https://www.npmjs.com/~vintage-creator). I'm a:
+I’m **Israel Chukwudi Abazie**, known in the open source space as [**vintage-creator**](https://www.npmjs.com/~vintage-creator). I'm a:
 
 - ✍️ Published author of _["Data Structures and Algorithms for All Programmers"](https://www.kobo.com/ww/en/ebook/data-structures-algorithms-for-all-programmers)_  
 - 💾 Author of _"Mastering Database Design: A Comprehensive Guide to SQL and NoSQL"_
@@ -45,9 +34,8 @@ I’m **Israel Chukwudi Abazie**, known in the open source space as [**`vintage-
 - 🤝 Advocate for **open source ethics, transparency**, and **inclusive communities**
 - 🔍 Currently contributing to the [**Fedora Project**](https://fedoraproject.org) under the [**Outreachy Internship Program**](https://www.outreachy.org)
 
----
 
-## 🚀 My Contributions to Fedora DEI (Diversity, Equity, and Inclusion)
+## My Contributions to Fedora DEI (Diversity, Equity, and Inclusion)
 
 ### ✅ **Completed Tasks**
 | Task | Link |
@@ -63,9 +51,8 @@ I’m **Israel Chukwudi Abazie**, known in the open source space as [**`vintage-
 | Crafted a high-level internship timeline | [Contribution ✅](https://gitlab.com/fedora/dei/outreachy-internship/-/issues/10#note_2449321547) |
 | Portfolio preparation (this page!) | [Link (TBD)](https://Put-a-dummy-link.com) |
 
----
 
-## 🧠 Thought Leadership & Articles
+## Thought Leadership & Articles
 
 Here are some of the knowledge resources I’ve crafted for the Fedora and open source community:
 
@@ -73,37 +60,35 @@ Here are some of the knowledge resources I’ve crafted for the Fedora and open 
 - 🧭 [**"The Ultimate Outreachy Guide: Insider Tips No One Shares"**](https://fedora-project.hashnode.dev/the-ultimate-outreachy-guide-insider-tips-no-one-shares)
 - 📻 [**"How a Broken Radio Sparked My Passion for Open Source"**](https://fedora-project.hashnode.dev/how-a-broken-radio-sparked-my-passion-for-open-source)
 - 🌀 [**"Why I Almost Ignored Fedora – And Why You Shouldn’t"**](https://vintagecreator.hashnode.dev/why-i-almost-ignored-fedora-and-why-you-shouldnt)
+- 🧹 [**"Your Java Codebase is a Mess – Here’s How to Fix It with Codepath"**](https://codepath-vscode.hashnode.dev/your-java-codebase-is-a-mess-heres-how-to-fix-it-with-codepath)
 
----
 
-## 🧰 Developer Tools I’ve Built for the Community
+## Developer Tools I’ve Built for the Community
 
-### 🧠 [Codepath](https://github.com/vintage-creator/Codepath)
-A VS Code extension for **code visualization** — helps contributors understand complex codebases like a tree graph.
+### 🧰 [Codepath](https://github.com/vintage-creator/Codepath)
+A VS Code extension for **code visualization** — helps contributors understand complex codebases like a tree graph.  
+📦 [View on VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=IsraelAbazie.codepath)
 
 ### 📝 [WriteFedora](https://github.com/vintage-creator/WriteFedora)  
 A **documentation helper** for Fedora Docs contributors. Offers templates, shortcuts, and smart linting for writing fast and clean docs.  
 📦 [View on VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=IsraelAbazie.writefedora)  
 🤝 [Contribution Guide](https://github.com/vintage-creator/WriteFedora/blob/master/CONTRIBUTING.md)
 
----
 
 ## 📚 Upcoming Books
 
 - 🧭 _**Integrity in Tech: Lessons in Ethical Coding, Team Dynamics and Trustworthy Partnerships**_ (Unpublished)
 - 🐧 _**Fedora for Everyone: From First Use to First Contribution**_ (Coming soon!)
 
----
 
 ## 🌐 Let’s Connect
 
 - 💼 [**LinkedIn**](https://www.linkedin.com/in/israel-abazie/)
 - 📦 [**npm Registry Profile**](https://www.npmjs.com/~vintage-creator)
-- 🧑‍💻 [**VS Code Marketplace**](https://marketplace.visualstudio.com/items?itemName=IsraelAbazie.writefedora)
+- 🧑‍💻 [**VS Code Marketplace**](https://marketplace.visualstudio.com/items?itemName=IsraelAbazie.codepath)
 - 📘 [**My Books**](https://www.kobo.com/ww/en/ebook/data-structures-algorithms-for-all-programmers)
 
----
 
-> _“The true spirit of open source isn’t just about code — it’s about integrity, kindness, and helping others rise.”_ — `@vintage-creator`
+> _“The true spirit of open source isn’t just about code — it’s about integrity, kindness, and helping others rise.”_ — @vintage-creator
 
 <p align="center"><img src="https://img.shields.io/badge/Open%20Source-❤️-brightgreen" alt="Open Source Love Badge"/> <img src="https://img.shields.io/badge/Fedora-Community-blue" /> <img src="https://img.shields.io/badge/Outreachy-Contributor-orange" /></p>
