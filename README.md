@@ -1,3 +1,30 @@
+<p align="center">
+  <img src="assets/banner.svg" alt="Vintage Creator Banner" width="100%" />
+</p>
+
+<h1 align="center">Hi 👋, I'm Israel aka Vintage Creator</h1>
+
+<p align="center">
+  <b>Author • Software Engineer • Open Source Believer • Fedora Contributor</b><br>
+  Building in the open with ❤️ from Nigeria 🇳🇬
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/israel-abazie/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/Connect-LinkedIn-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="https://www.npmjs.com/~vintage-creator">
+    <img alt="NPM" src="https://img.shields.io/badge/NPM-vintage--creator-red?style=for-the-badge&logo=npm">
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-Me-green?style=for-the-badge&logo=gmail">
+  </a>
+</p>
+
+---
+
+
+
 <!-- Banner -->
 <h1 align="center">✨ My Open Source Legacy ✨</h1>
 <p align="center">Championing Transparency, Collaboration, and Community — One Contribution at a Time</p>
