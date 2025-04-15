@@ -49,7 +49,7 @@ I’m **Israel Chukwudi Abazie**, known in the open source space as [**vintage-c
 | Shared personal story for "Supporting local communities" | [Contribution ✅](https://gitlab.com/fedora/dei/outreachy-internship/-/issues/8#note_2425507391) |
 | DEI Docs Page Audit and Improvement Proposal | [Contribution ✅](https://gitlab.com/fedora/dei/outreachy-internship/-/issues/7#note_2413685681) |
 | Crafted a high-level internship timeline | [Contribution ✅](https://gitlab.com/fedora/dei/outreachy-internship/-/issues/10#note_2449321547) |
-| Portfolio preparation (this page!) | [Link (TBD)](https://Put-a-dummy-link.com) |
+| Portfolio preparation (this page!) | [Contribution ✅]([https://Put-a-dummy-link.com](https://gitlab.com/fedora/dei/outreachy-internship/-/issues/11#note_2451463742)) |
 
 
 ## Thought Leadership & Articles
