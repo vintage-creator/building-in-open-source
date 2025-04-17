@@ -84,7 +84,7 @@ A **documentation helper** for Fedora Docs contributors. Offers templates, short
 ## 🌐 Let’s Connect
 
 - 💼 [**LinkedIn**](https://www.linkedin.com/in/israel-abazie/)
-- 📦 [**npm Registry Profile**](https://www.npmjs.com/~vintage-creator)
+- 📦 [**NPM Registry Profile**](https://www.npmjs.com/~vintage-creator)
 - 🧑‍💻 [**VS Code Marketplace**](https://marketplace.visualstudio.com/items?itemName=IsraelAbazie.codepath)
 - 📘 [**My Books**](https://www.kobo.com/ww/en/ebook/data-structures-algorithms-for-all-programmers)
 
